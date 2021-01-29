@@ -10,7 +10,7 @@ django-pagination==1.0.7
 django-registration==0.8
 django-tagging==0.3.1
 django-voting==0.1
-gunicorn==0.14.3
+gunicorn==19.5.0
 psycopg2==2.4.5
 python-memcached==1.48
 python-openid==2.2.5
